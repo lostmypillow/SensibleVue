@@ -10,7 +10,7 @@ import AppTitle from './components/AppTitle.vue'
 
 
 
-const movies = ref([]);
+// const movies = ref([]);
 const title = ref("");
 const apikey = ref("");
 const searchTerm = ref("");
